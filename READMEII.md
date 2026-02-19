@@ -47,7 +47,6 @@ Example query focus:
   - Order frequency counts
 
 ## 🧠 Skills Demonstrated
-
 - Distributed data processing
 - Spark DataFrame transformations
 - Data lake architecture design
@@ -63,8 +62,10 @@ screenshots/    → Execution evidence
 README.md       → Project documentation  
 
 ## 🚀 Key Takeaways
-
 - Spark excels at transformation at scale
 - BigQuery excels at serverless analytics
 - Parquet enables cross-platform efficiency
 - Data lakes + warehouses are complementary, not competing📊 Distributed Retail Returns Analytics Pipeline
+
+
+## Note: Source datasets are part of a controlled lab environment and are not publicly distributable. Sample schemas and transformation outputs are documented via notebooks and screenshots.
