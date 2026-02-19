@@ -36,7 +36,7 @@ Examples:
   - Monthly return trends
   - Status distribution
 
-![Flowchart](Google cloud.png)
+![Flowchart](Google-cloud.png)
 
 
 ### Business Use Case
