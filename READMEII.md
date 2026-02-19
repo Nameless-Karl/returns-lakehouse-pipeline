@@ -68,4 +68,4 @@ README.md       → Project documentation
 - Data lakes + warehouses are complementary, not competing📊 Distributed Retail Returns Analytics Pipeline
 
 
-## Note: Source datasets are part of a controlled lab environment and are not publicly distributable. Sample schemas and transformation outputs are documented via notebooks and screenshots.
+### Note: Source datasets are part of a controlled lab environment and are not publicly distributable. Sample schemas and transformation outputs are documented via notebooks and screenshots.
