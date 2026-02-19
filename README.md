@@ -56,3 +56,6 @@ This pipeline enables retailers to:
   - Parquet optimization
   - Cloud-native ETL workflows
 
+
+## Note: Source datasets are part of a controlled lab environment and are not publicly distributable. Sample schemas and transformation outputs are documented via notebooks and screenshots.
+
