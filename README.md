@@ -1,5 +1,4 @@
-# returns-lakehouse-pipeline
-Retail Returns Lakehouse Pipeline — Dataproc, Spark &amp; BigQuery
+# Retail Returns Lakehouse Pipeline — Dataproc, Spark &amp; BigQuery
 
 ### Project Overview
 This project demonstrates how raw retail returns data stored in cloud storage can be transformed and analyzed using a lakehouse architecture.
