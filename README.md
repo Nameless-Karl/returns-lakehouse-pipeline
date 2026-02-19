@@ -19,17 +19,21 @@ The pipeline integrates distributed processing with warehouse analytics to gener
 1️.  Data Ingestion
   - Returns CSV loaded from stores
   - Address CSV loaded from store registry
+
 2️.  Data Processing
 Executed in Dataproc via Spark:
   - Spark session created
   - CSVs loaded as DataFrames
   - Joined on store_id
+
 3️.  Data Export
   - Output written as Parquet
   - Stored in Cloud Storage
+
 4️.  Warehouse Loading
 Parquet loaded into BigQuery standard table using:
 `LOAD DATA OVERWRITE ...`
+
 5️.  Analytics Queries
 Examples:
   - Return counts
