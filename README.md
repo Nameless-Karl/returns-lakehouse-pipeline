@@ -36,6 +36,8 @@ Examples:
   - Monthly return trends
   - Status distribution
 
+![Flowchart](Google cloud.png)
+
 
 ### Business Use Case
 This pipeline enables retailers to:
